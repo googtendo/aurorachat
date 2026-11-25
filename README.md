@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://github.com/Unitendo/aurorachat-3ds/blob/main/meta/banner.png" align="center"></img>
+  <img src="https://github.com/googtendo/aurorachat-3ds/blob/main/meta/banner.png" align="center"></img>
   <p align="center">A chatting application primarily for Homebrewed Nintendo consoles.</p>
 </div>
 <div align="center">
 <h1>Links</h1>
-<a href="https://auc.unitendo.org">Website</a><br>
-<a href="https://github.com/Unitendo/aurorachat-3ds">3DS Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a> | <a href="https://github.com/Unitendo/aurorachat-wiiu-plugin">Wii U Plugin</a><br>
-<a href="https://github.com/Unitendo/aurorachat-switch">Switch Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-windows">Windows Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-9x-v7">Windows 9x Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-unix">Unix Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-server-v7">Server (v7)</a><br>
-<a href="https://github.com/Unitendo/aurorachat-server-v6">Server (legacy v6)</a><br>
+<a href="https://googtendo.org">Website</a><br>
+<a href="https://github.com/googtendo/aurorachat-3ds">3DS Client</a><br>
+<a href="https://github.com/googtendo/aurorachat-wiiu">Wii U Client</a> | <a href="https://github.com/googtendo/aurorachat-wiiu-plugin">Wii U Plugin</a><br>
+<a href="https://github.com/googtendo/aurorachat-switch">Switch Client</a><br>
+<a href="https://github.com/googtendo/aurorachat-windows">Windows Client</a><br>
+<a href="https://github.com/googtendo/aurorachat-9x-v7">Windows 9x Client</a><br>
+<a href="https://github.com/googtendo/aurorachat-unix">Unix Client</a><br>
+<a href="https://github.com/googtendo/aurorachat-wii">Wii Client</a><br>
+<a href="https://github.com/googtendo/aurorachat-server-v7">Server (v7)</a><br>
+<a href="https://github.com/googtendo/aurorachat-server-v6">Server (legacy v6)</a><br>
 <a href="https://discord.gg/6AQq7U5Q5E">Join our Discord!</a>
 </div>
 ‎ 
