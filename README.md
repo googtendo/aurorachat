@@ -1,4 +1,4 @@
-<div align="center">
+I<div align="center">
   <img src="https://github.com/googtendo/aurorachat-3ds/blob/main/meta/banner.png" align="center"></img>
   <p align="center">A chatting application primarily for Homebrewed Nintendo consoles.</p>
 </div>
@@ -63,5 +63,8 @@
 </div>
 
 ‎
-## Thank you!
+## Thank you Startendo Contributors
 <img src = "https://contrib.rocks/image?repo=Unitendo/aurorachat"/>
+
+## Thank You googs...!
+<img src = "https://contrib.rocks/image?repo=googtendo/aurorachat"/>
