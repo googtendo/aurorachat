@@ -14,7 +14,7 @@ I<div align="center">
 <a href="https://github.com/googtendo/aurorachat-wii">Wii Client</a><br>
 <a href="https://github.com/googtendo/aurorachat-server-v7">Server (v7)</a><br>
 <a href="https://github.com/googtendo/aurorachat-server-v6">Server (legacy v6)</a><br>
-<a href="https://discord.gg/6AQq7U5Q5E">Join our Discord!</a>
+<a href="http://googtendo.org/discord">Join our Discord!</a>
 </div>
 ‎ 
 <div align="center">
