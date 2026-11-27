@@ -12,6 +12,7 @@ I<div align="center">
 <a href="https://github.com/googtendo/aurorachat-9x-v7">Windows 9x Client</a><br>
 <a href="https://github.com/googtendo/aurorachat-unix">Unix Client</a><br>
 <a href="https://github.com/googtendo/aurorachat-wii">Wii Client</a><br>
+<a href="https://github.com/googtendo/aurorachat-python">Python Client</a><br>
 <a href="https://github.com/googtendo/aurorachat-server-v7">Server (v7)</a><br>
 <a href="https://github.com/googtendo/aurorachat-server-v6">Server (legacy v6)</a><br>
 <a href="http://googtendo.org/discord">Join our Discord!</a>
